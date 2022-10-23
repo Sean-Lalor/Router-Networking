@@ -1,0 +1,3 @@
+router_ID 3
+input-ports 6002, 6004
+output-port 5003-3-2 7003-4-4

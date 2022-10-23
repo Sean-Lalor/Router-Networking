@@ -1,0 +1,3 @@
+router_ID 7
+input-ports 10001, 10004
+output-port 4007-8-1 7007-6-4

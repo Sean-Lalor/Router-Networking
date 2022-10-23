@@ -1,0 +1,3 @@
+router_ID 5
+input-ports 8004, 8006
+output-port 7005-2-4 9005-1-6
