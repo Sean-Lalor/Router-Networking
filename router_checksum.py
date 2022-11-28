@@ -186,7 +186,7 @@ def checksum(header, data):
     two_sum = str(chsum_single) + str(chsum_second)
     
     if two_sum == "00":
-        print("Yes it works bitches")
+        print("Yes it works")
         final = 
     return 
 checksum()
