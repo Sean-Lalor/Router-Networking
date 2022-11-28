@@ -200,7 +200,7 @@ def checksum2(digisum, digi_single, digi_second, str_digi_single, str_digi_secon
     print(two_sum)
     
     if two_sum == "00":
-        print("Yes it works bitches")
+        print("Yes it works")
     return two_sum
  
 def main():
